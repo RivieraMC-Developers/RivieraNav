@@ -1,0 +1,7 @@
+name: NebulaNav
+main: com.rivieramc.nav.NebulaNav
+version: 0.1
+description: Hub server plugin.
+depend: [NebulaCore]
+ 
+commands:

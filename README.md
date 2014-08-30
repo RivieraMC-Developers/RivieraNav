@@ -1,4 +1,4 @@
-NebulaNav
+RivieraNav
 =========
 
-Hub plugin for NebulaMC
+Hub plugin for RivieraMC.
